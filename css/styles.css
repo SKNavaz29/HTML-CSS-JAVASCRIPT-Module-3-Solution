@@ -1,0 +1,87 @@
+.navbar-brand{
+    padding-top: 15px;
+    padding-bottom: 30px;
+
+    
+    font-size:xx-large;
+    color: black !Important;
+    margin-left:5%;
+}
+
+*{
+
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+}
+
+.navc{
+
+    border: 5px solid rgb(0, 0, 0);
+    border-style: solid none;
+    margin-bottom: -10px;
+    
+}
+
+.navd{
+
+    border-bottom: 3px solid rgb(0, 0, 0);
+    margin-left: -40px;
+    padding: 2px;
+
+}
+
+.navf{
+
+    margin-top: -11px;
+}
+
+.gap {
+
+    margin-top: 20px;
+    margin-bottom: 25px;
+}
+
+h5{
+
+    text-align: center;
+    padding-top: 5px;
+    padding-bottom: 0%;
+    font-size: large;
+    font-weight:bolder;
+}
+
+p{
+
+
+    padding: 3px;
+    text-align: justify;
+    margin: 10px;
+}
+
+.menu{
+
+    background-color: rgb(154, 154, 154);
+    margin-left: 2.5%;
+    margin-right: 2.5%;
+
+}
+
+
+
+  .navbar-default .navbar-toggle.collapsed {
+    border-color: #000000;
+  }
+  
+  .navbar-default .navbar-toggle.collapsed .icon-bar {
+    background-color: #000000;
+  }
+  
+  .navbar-default .navbar-toggle{
+   border-color:#6d6c6c ;
+  }
+
+  .navbar{
+
+   
+    background-color: rgb(149, 149, 149);
+  }
+
